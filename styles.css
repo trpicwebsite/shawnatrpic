@@ -30,8 +30,8 @@ h1{
   border: 2px solid yellow;
 }
 
-li {
-  display: inline;
+ul {
+    list-style-type: none;
 }
 
 footer{
