@@ -42,10 +42,6 @@ header{
   .sidenav a {font-size: 18px;}
 }
 
-ul {
-    list-style-type: none;
-}
-
 footer{
     background-color: pink;
 }
