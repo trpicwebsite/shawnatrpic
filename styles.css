@@ -9,21 +9,13 @@ header{
     text-align: center;
 }
 
-h1{
-        @font-face {
-        font-family: myFirstFont;
-         src: url(Westpart-pmlO.otf);
-        font-weight: bold;
-        }
-}
-
 .navigation {
   background-color: white;
   color: black;
   width: 150px;
 }
 
-.stuff{
+aside{
   background-color: black;
   color: white;
 }
