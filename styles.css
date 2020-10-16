@@ -2,5 +2,10 @@ body {
     background-color: lawngreen;
     cursor: crosshair;
     margin-left: auto;
-    margin-right: auto;   
+    margin-right: auto;  
+    @font-face {
+  font-family: myFirstFont;
+  src: url(Westpart-pmlO.otf);
+  font-weight: bold;
+}
 }
