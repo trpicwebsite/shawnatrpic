@@ -1,8 +1,5 @@
 body {
-    background-color: lawngreen;
-    cursor: crosshair;
-    margin-left: auto;
-    margin-right: auto;  
+    background-color: lawngreen; 
 }
 
 header{
@@ -16,7 +13,7 @@ header{
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: black;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -25,12 +22,12 @@ header{
   padding: 6px 6px 6px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: white;
   display: block;
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: blue;
 }
 
 .main {
