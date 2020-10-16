@@ -39,6 +39,10 @@ header{
   .sidenav a {font-size: 18px;}
 }
 
+img{
+    width: 100%;
+}
+
 footer{
     background-color: pink;
 }
