@@ -5,10 +5,11 @@ body {
 header{
     text-align: center;
     background-color: yellow;
+    position: sticky;
 }
 
 .sidenav {
-  margin-top: 200px;
+  margin-top: 0px;
   height: 100%;
   width: 200px;
   position: fixed;
